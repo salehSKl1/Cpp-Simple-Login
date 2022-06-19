@@ -1,2 +1,10 @@
 # Cpp-Simple-Login
-(AR)  مرحبا بكم في تسجيل الدخول البسيط c++ تم برمجة هذا المشروع البسيط بهدف التعلم للمبتادين بلغة . SKLتم تطوير المشروع من قبل  المشروع مفتوح المصدر تستطيع التغير فيه كما تريد. يرجى زيارة موقعنا على جيت هوب للمزيد من المشاريع مفتوحة المصدر : https://github.com/salehSKl1  */  /* (EN)  Welcome to simple login. This simple project has been programmed with the aim of learning for beginners in C++. The project was developed by SKL The project is open source and you can change it as you like. 
+(عربي)
+مرحبا بكم في تسجيل الدخول البسيط
+ تم برمجة هذا المشروع البسيط بهدف التعلم للمبتادين بلغةC++.
+تم تطوير المشروع من قبل SKL المشروع مفتوح المصدر تستطيع التغير فيه كما تريد.  
+
+(EN) 
+Welcome to simple login.
+This simple project has been programmed with the aim of learning for beginners in C++.
+The project was developed by SKL The project is open source and you can change it as you like. 
